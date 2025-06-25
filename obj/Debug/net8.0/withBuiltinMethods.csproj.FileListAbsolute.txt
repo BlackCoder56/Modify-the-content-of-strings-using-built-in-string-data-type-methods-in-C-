@@ -12,3 +12,4 @@
 /home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/obj/Debug/net8.0/withBuiltinMethods.pdb
 /home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/obj/Debug/net8.0/withBuiltinMethods.genruntimeconfig.cache
 /home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/obj/Debug/net8.0/ref/withBuiltinMethods.dll
+/home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/obj/Debug/net8.0/withBuiltinMethods.sourcelink.json
