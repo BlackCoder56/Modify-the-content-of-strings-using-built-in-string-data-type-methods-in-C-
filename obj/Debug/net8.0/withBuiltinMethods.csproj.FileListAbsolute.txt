@@ -1,0 +1,14 @@
+/home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/bin/Debug/net8.0/withBuiltinMethods
+/home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/bin/Debug/net8.0/withBuiltinMethods.deps.json
+/home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/bin/Debug/net8.0/withBuiltinMethods.runtimeconfig.json
+/home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/bin/Debug/net8.0/withBuiltinMethods.dll
+/home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/bin/Debug/net8.0/withBuiltinMethods.pdb
+/home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/obj/Debug/net8.0/withBuiltinMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/obj/Debug/net8.0/withBuiltinMethods.AssemblyInfoInputs.cache
+/home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/obj/Debug/net8.0/withBuiltinMethods.AssemblyInfo.cs
+/home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/obj/Debug/net8.0/withBuiltinMethods.csproj.CoreCompileInputs.cache
+/home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/obj/Debug/net8.0/withBuiltinMethods.dll
+/home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/obj/Debug/net8.0/refint/withBuiltinMethods.dll
+/home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/obj/Debug/net8.0/withBuiltinMethods.pdb
+/home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/obj/Debug/net8.0/withBuiltinMethods.genruntimeconfig.cache
+/home/elisha/Desktop/C#/projects/ModifyTheContentofStrings/withBuiltinMethods/obj/Debug/net8.0/ref/withBuiltinMethods.dll
