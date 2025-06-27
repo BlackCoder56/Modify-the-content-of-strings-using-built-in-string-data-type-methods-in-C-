@@ -6,14 +6,14 @@ git clone https://github.com/BlackCoder56/  Modify-the-content-of-strings-using-
 ```
 
 ## Run app
-*** Uncomment block of code one at a time before running ***
+Uncomment block of code one at a time before running
 
-## Build project
+### Build project
 ```bash
 dotnet build
 ```
 
-## Run project
+### Run project
 ```bash
 dotnet run
 ```
